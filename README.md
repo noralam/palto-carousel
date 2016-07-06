@@ -5,19 +5,21 @@ Palto Carousel is one of the most user friendly wordpress plugin.You can create 
 
 ## Most powerful features:
 
-    Fully responsive. Scales with its container.
-    Lots of icon for arrow button.
-    Border support.
-    Four different image size supports.
-    User-friendly Editor.
-    CSS3 Animation support.
-    Images lightbox support.
-    7 lightbox effect.
-    15 hover animation.
-    Carousel center mode.
-    Carousel variable width.
-    RTL support.
-    Mobile first function.
-    Different dots position.
-    Different arrow position.
+<ul>
+								<li><strong>Fully responsive. Scales with its container.</strong></li>
+								<li><strong>Lots of icon for arrow button.</strong></li>
+								<li><strong>Border support.</strong></li>
+								<li><strong>Four different image size supports. </strong></li>
+								<li><strong>User-friendly Editor.</strong></li>
+								<li><strong>CSS3 Animation support.</strong></li>
+								<li><strong>Images lightbox support.</strong></li>
+								<li><strong>7 lightbox effect.</strong></li>
+								<li><strong>15 hover animation.</strong></li>
+								<li><strong>Carousel center mode.</strong></li>
+								<li><strong>Carousel variable width.</strong></li>
+								<li><strong>RTL support.</strong></li>
+								<li><strong>Mobile first function.</strong></li>
+								<li><strong>Different dots position.</strong></li>
+								<li><strong>Different arrow position.</strong></li>
+							</ul>
 
