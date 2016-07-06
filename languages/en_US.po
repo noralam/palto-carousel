@@ -1,0 +1,588 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Palto carousel\n"
+"POT-Creation-Date: 2016-06-09 16:10+0600\n"
+"PO-Revision-Date: 2016-06-09 16:10+0600\n"
+"Last-Translator: \n"
+"Language-Team: palto <nnalam50@gmail.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-Basepath: ../../palto-carousel - Copy\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;esc_html_e;esc_html\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/add-button-tinymce.php:62
+msgid "No carousel found"
+msgstr ""
+
+#: admin/pcarousel-meta.php:30 admin/pcarousel-post-type.php:18
+#: admin/pcarousel-post-type.php:19
+msgid "Palto carousel"
+msgstr ""
+
+#: admin/pcarousel-meta.php:40
+msgid "Add carousel images"
+msgstr ""
+
+#: admin/pcarousel-meta.php:41
+msgid "Upload or add carousel images for create carousel."
+msgstr ""
+
+#: admin/pcarousel-meta.php:46
+msgid "Add your carousel images"
+msgstr ""
+
+#: admin/pcarousel-meta.php:51
+msgid "Select image size"
+msgstr ""
+
+#: admin/pcarousel-meta.php:52
+msgid "Select image size as you need."
+msgstr ""
+
+#: admin/pcarousel-meta.php:57
+msgid " Medium (300px x 300px )  "
+msgstr ""
+
+#: admin/pcarousel-meta.php:58
+msgid " Extra medium (450px x 450px )  "
+msgstr ""
+
+#: admin/pcarousel-meta.php:59
+msgid "Thumbnail (150px x 150px hard cropped)  "
+msgstr ""
+
+#: admin/pcarousel-meta.php:60
+msgid "Large (1024px x 1024px max height 1024px)"
+msgstr ""
+
+#: admin/pcarousel-meta.php:61
+msgid "Full (original size uploaded)"
+msgstr ""
+
+#: admin/pcarousel-meta.php:65
+msgid "Carousel top bottom margin"
+msgstr ""
+
+#: admin/pcarousel-meta.php:66
+msgid "Set your carousel top bottom margin here."
+msgstr ""
+
+#: admin/pcarousel-meta.php:72 admin/pcarousel-meta.php:145
+msgid "Margin px:"
+msgstr ""
+
+#: admin/pcarousel-meta.php:75
+msgid "Auto play"
+msgstr ""
+
+#: admin/pcarousel-meta.php:76
+msgid "You can hide or active auto play.default auto play true"
+msgstr ""
+
+#: admin/pcarousel-meta.php:81 admin/pcarousel-meta.php:115
+#: admin/pcarousel-meta.php:129 admin/pcarousel-meta.php:195
+#: admin/pcarousel-meta.php:206 admin/pcarousel-meta.php:328
+#: admin/pcarousel-meta.php:438 admin/pcarousel-meta.php:464
+#: admin/pcarousel-meta.php:490 admin/pcarousel-meta.php:501
+msgid "Enable"
+msgstr ""
+
+#: admin/pcarousel-meta.php:82 admin/pcarousel-meta.php:116
+#: admin/pcarousel-meta.php:130 admin/pcarousel-meta.php:196
+msgid "disable"
+msgstr ""
+
+#: admin/pcarousel-meta.php:86
+msgid "Set auto play speed"
+msgstr ""
+
+#: admin/pcarousel-meta.php:87
+msgid "Auto play Speed in milliseconds"
+msgstr ""
+
+#: admin/pcarousel-meta.php:93
+msgid "milliseconds:"
+msgstr ""
+
+#: admin/pcarousel-meta.php:100
+msgid "Scroll speed"
+msgstr ""
+
+#: admin/pcarousel-meta.php:101
+msgid "Scroll speed in milliseconds"
+msgstr ""
+
+#: admin/pcarousel-meta.php:107
+msgid "Milliseconds:"
+msgstr ""
+
+#: admin/pcarousel-meta.php:110
+msgid "Pause on hover"
+msgstr ""
+
+#: admin/pcarousel-meta.php:124
+msgid "Infinite loop"
+msgstr ""
+
+#: admin/pcarousel-meta.php:138
+msgid "Carousel item margin"
+msgstr ""
+
+#: admin/pcarousel-meta.php:139
+msgid "Carousel item margin set left and right side by px.default 0"
+msgstr ""
+
+#: admin/pcarousel-meta.php:149
+msgid "Images show large screen"
+msgstr ""
+
+#: admin/pcarousel-meta.php:150
+msgid "Set images to show at a time in large screen"
+msgstr ""
+
+#: admin/pcarousel-meta.php:156 admin/pcarousel-meta.php:166
+#: admin/pcarousel-meta.php:176 admin/pcarousel-meta.php:186
+msgid "Images number:"
+msgstr ""
+
+#: admin/pcarousel-meta.php:159
+msgid "Images show medium screen"
+msgstr ""
+
+#: admin/pcarousel-meta.php:160
+msgid "Set images to show at a time in medium screen."
+msgstr ""
+
+#: admin/pcarousel-meta.php:169
+msgid "Images show in tab"
+msgstr ""
+
+#: admin/pcarousel-meta.php:170
+msgid "Set images to show at a time in tab screen."
+msgstr ""
+
+#: admin/pcarousel-meta.php:179
+msgid "Images scroll at a time"
+msgstr ""
+
+#: admin/pcarousel-meta.php:180
+msgid "Set images to scroll at a time"
+msgstr ""
+
+#: admin/pcarousel-meta.php:190
+msgid "Mouse dragging"
+msgstr ""
+
+#: admin/pcarousel-meta.php:200
+msgid "Carousel arrows"
+msgstr ""
+
+#: admin/pcarousel-meta.php:201
+msgid "If you use arrows click enable."
+msgstr ""
+
+#: admin/pcarousel-meta.php:207 admin/pcarousel-meta.php:329
+#: admin/pcarousel-meta.php:439 admin/pcarousel-meta.php:465
+#: admin/pcarousel-meta.php:491 admin/pcarousel-meta.php:502
+msgid "Disable"
+msgstr ""
+
+#: admin/pcarousel-meta.php:212
+msgid "Select arrows icons"
+msgstr ""
+
+#: admin/pcarousel-meta.php:213
+msgid "Select icon for arrows."
+msgstr ""
+
+#: admin/pcarousel-meta.php:218
+msgid " Icon one"
+msgstr ""
+
+#: admin/pcarousel-meta.php:219
+msgid "Icon two "
+msgstr ""
+
+#: admin/pcarousel-meta.php:220
+msgid "Icon three "
+msgstr ""
+
+#: admin/pcarousel-meta.php:221
+msgid "Icon four "
+msgstr ""
+
+#: admin/pcarousel-meta.php:222
+msgid "Icon five "
+msgstr ""
+
+#: admin/pcarousel-meta.php:223
+msgid "Icon six "
+msgstr ""
+
+#: admin/pcarousel-meta.php:224
+msgid "Icon seven "
+msgstr ""
+
+#: admin/pcarousel-meta.php:225
+msgid "Icon eight "
+msgstr ""
+
+#: admin/pcarousel-meta.php:226
+msgid "Icon nine "
+msgstr ""
+
+#: admin/pcarousel-meta.php:227
+msgid "Icon ten "
+msgstr ""
+
+#: admin/pcarousel-meta.php:228
+msgid "Icon eleven "
+msgstr ""
+
+#: admin/pcarousel-meta.php:238
+msgid "Set arrows position"
+msgstr ""
+
+#: admin/pcarousel-meta.php:239
+msgid "You can set your arrows position"
+msgstr ""
+
+#: admin/pcarousel-meta.php:244
+msgid " Default"
+msgstr ""
+
+#: admin/pcarousel-meta.php:245
+msgid "Bottom Middle "
+msgstr ""
+
+#: admin/pcarousel-meta.php:246
+msgid "Bottom Left "
+msgstr ""
+
+#: admin/pcarousel-meta.php:247
+msgid " Bottom Right "
+msgstr ""
+
+#: admin/pcarousel-meta.php:248
+msgid " Top left"
+msgstr ""
+
+#: admin/pcarousel-meta.php:249
+msgid " Top right "
+msgstr ""
+
+#: admin/pcarousel-meta.php:259
+msgid "Set arrows top bottom margin"
+msgstr ""
+
+#: admin/pcarousel-meta.php:260
+msgid "You arrow button set right position by top bottom margin set."
+msgstr ""
+
+#: admin/pcarousel-meta.php:266
+msgid "Margin:"
+msgstr ""
+
+#: admin/pcarousel-meta.php:274
+msgid "Arrows background color"
+msgstr ""
+
+#: admin/pcarousel-meta.php:275
+msgid "Set arrows icon background color ."
+msgstr ""
+
+#: admin/pcarousel-meta.php:286
+msgid "Arrows background hover color"
+msgstr ""
+
+#: admin/pcarousel-meta.php:287
+msgid "Set arrows icon background hover color ."
+msgstr ""
+
+#: admin/pcarousel-meta.php:298
+msgid "Arrows icon color"
+msgstr ""
+
+#: admin/pcarousel-meta.php:299
+msgid "Set arrows icon color ."
+msgstr ""
+
+#: admin/pcarousel-meta.php:310
+msgid "Arrows icon hover color"
+msgstr ""
+
+#: admin/pcarousel-meta.php:311
+msgid "Set arrows icon hover color ."
+msgstr ""
+
+#: admin/pcarousel-meta.php:322
+msgid "Carousel dots"
+msgstr ""
+
+#: admin/pcarousel-meta.php:323
+msgid "If you use dots click enable."
+msgstr ""
+
+#: admin/pcarousel-meta.php:333
+msgid "Select dots position "
+msgstr ""
+
+#: admin/pcarousel-meta.php:334
+msgid "You can set dots position right, left and center."
+msgstr ""
+
+#: admin/pcarousel-meta.php:339
+msgid "Center"
+msgstr ""
+
+#: admin/pcarousel-meta.php:340
+msgid "Left"
+msgstr ""
+
+#: admin/pcarousel-meta.php:341
+msgid "Right "
+msgstr ""
+
+#: admin/pcarousel-meta.php:350
+msgid "Select CSS3 Animation Easing"
+msgstr ""
+
+#: admin/pcarousel-meta.php:351
+msgid "Select animation-timing-function property."
+msgstr ""
+
+#: admin/pcarousel-meta.php:356
+msgid "Linear"
+msgstr ""
+
+#: admin/pcarousel-meta.php:357
+msgid "Ease"
+msgstr ""
+
+#: admin/pcarousel-meta.php:358
+msgid "Ease-in"
+msgstr ""
+
+#: admin/pcarousel-meta.php:359
+msgid "Ease-out"
+msgstr ""
+
+#: admin/pcarousel-meta.php:360
+msgid "Ease-in-out"
+msgstr ""
+
+#: admin/pcarousel-meta.php:365
+msgid "Select border type"
+msgstr ""
+
+#: admin/pcarousel-meta.php:370
+msgid "No border"
+msgstr ""
+
+#: admin/pcarousel-meta.php:371
+msgid "Full carousel border"
+msgstr ""
+
+#: admin/pcarousel-meta.php:372
+msgid "All images border"
+msgstr ""
+
+#: admin/pcarousel-meta.php:377
+msgid "Full carousel border length"
+msgstr ""
+
+#: admin/pcarousel-meta.php:378 admin/pcarousel-meta.php:405
+msgid "Set your border length by px.default length 1px."
+msgstr ""
+
+#: admin/pcarousel-meta.php:392
+msgid "Full carousel border color"
+msgstr ""
+
+#: admin/pcarousel-meta.php:393 admin/pcarousel-meta.php:420
+msgid "Select border color."
+msgstr ""
+
+#: admin/pcarousel-meta.php:404
+msgid "Carousel item border length"
+msgstr ""
+
+#: admin/pcarousel-meta.php:419
+msgid "Carousel item border color"
+msgstr ""
+
+#: admin/pcarousel-meta.php:432
+msgid "Carousel center mode"
+msgstr ""
+
+#: admin/pcarousel-meta.php:433
+msgid ""
+"Enables centred view with partial prev/next slides. Use with odd numbered "
+"slidesToShow counts."
+msgstr ""
+
+#: admin/pcarousel-meta.php:443
+msgid "Carousel center mode Padding"
+msgstr ""
+
+#: admin/pcarousel-meta.php:444
+msgid "Set center mode padding here."
+msgstr ""
+
+#: admin/pcarousel-meta.php:458
+msgid "Carousel variable width"
+msgstr ""
+
+#: admin/pcarousel-meta.php:459
+msgid ""
+"Variable width work when image size selected full and image upload different "
+"size."
+msgstr ""
+
+#: admin/pcarousel-meta.php:471
+msgid "sliders direction"
+msgstr ""
+
+#: admin/pcarousel-meta.php:472
+msgid "Change the sliders direction."
+msgstr ""
+
+#: admin/pcarousel-meta.php:477
+msgid "Left to right"
+msgstr ""
+
+#: admin/pcarousel-meta.php:478
+msgid "Right to left"
+msgstr ""
+
+#: admin/pcarousel-meta.php:479
+msgid "Vertical"
+msgstr ""
+
+#: admin/pcarousel-meta.php:484
+msgid "Single image fade"
+msgstr ""
+
+#: admin/pcarousel-meta.php:485
+msgid "Only one image show on front when fade enabled"
+msgstr ""
+
+#: admin/pcarousel-meta.php:495
+msgid "Mobile first function"
+msgstr ""
+
+#: admin/pcarousel-meta.php:496
+msgid "Responsive settings use mobile first calculation"
+msgstr ""
+
+#: admin/pcarousel-post-type.php:16
+msgid "carousels"
+msgstr ""
+
+#: admin/pcarousel-post-type.php:17
+msgid "carousel"
+msgstr ""
+
+#: admin/pcarousel-post-type.php:20 admin/pcarousel-post-type.php:21
+msgid "Add New carousel"
+msgstr ""
+
+#: admin/pcarousel-post-type.php:22
+msgid "New carousel"
+msgstr ""
+
+#: admin/pcarousel-post-type.php:23
+msgid "Edit carousel"
+msgstr ""
+
+#: admin/pcarousel-post-type.php:24
+msgid "View carousel"
+msgstr ""
+
+#: admin/pcarousel-post-type.php:25
+msgid "All carousel"
+msgstr ""
+
+#: admin/pcarousel-post-type.php:26
+msgid "Parent carousel:"
+msgstr ""
+
+#: admin/pcarousel-post-type.php:27
+msgid "No carousel found."
+msgstr ""
+
+#: admin/pcarousel-post-type.php:28
+msgid "No carousel found in Trash."
+msgstr ""
+
+#: admin/pcarousel-post-type.php:33
+msgid "You can create awesome image carousels with by palto carousel."
+msgstr ""
+
+#: admin/pcarousel-post-type.php:79
+msgid "Carousel updated. Shortcode is:"
+msgstr ""
+
+#: admin/pcarousel-post-type.php:80
+msgid "Carousel field updated. Shortcode is:"
+msgstr ""
+
+#: admin/pcarousel-post-type.php:81
+msgid "Carousel field deleted."
+msgstr ""
+
+#: admin/pcarousel-post-type.php:82
+msgid "Carousel item updated."
+msgstr ""
+
+#: admin/pcarousel-post-type.php:84
+#, php-format
+msgid "Carousel restored to revision from %s"
+msgstr ""
+
+#: admin/pcarousel-post-type.php:85
+msgid "Carousel published. Shortcode is:"
+msgstr ""
+
+#: admin/pcarousel-post-type.php:86
+msgid "Carousel saved."
+msgstr ""
+
+#: admin/pcarousel-post-type.php:87
+msgid "Carousel submitted."
+msgstr ""
+
+#: admin/pcarousel-post-type.php:89
+#, php-format
+msgid "Carousel item scheduled for: <strong>%1$s</strong>."
+msgstr ""
+
+#: admin/pcarousel-post-type.php:91
+msgid "M j, Y @ G:i"
+msgstr ""
+
+#: admin/pcarousel-post-type.php:93
+msgid "Carousel draft updated."
+msgstr ""
+
+#: admin/pcarousel-post-type.php:133
+msgid " image uploaded."
+msgstr ""
+
+#: admin/pcarousel-post-type.php:137
+msgid "No image uploaded!"
+msgstr ""
+
+#: admin/pcarousel-post-type.php:194
+msgid "Enter carousel name"
+msgstr ""
+
+#: includes/pcarousel-shortcode.php:81
+msgid "No carousel found!"
+msgstr ""

@@ -1,0 +1,131 @@
+i.mce-i-pc-icon {
+	background-image: url('../img/pc-icon.png');
+}
+#cmb2-metabox-_carousel_metabox p.cmb2-metabox-description {
+  color: #008ec2;
+}
+.labelauty-unchecked, .labelauty-checked {
+	font-size: 13px;
+	padding: 10px 20px 10px 8px;
+	text-align: center;
+} 
+input.labelauty + label > span.labelauty-checked-image,
+input.labelauty + label > span.labelauty-unchecked-image {
+  margin: 0 0 10px 21px;
+}  
+input.labelauty:checked + label{
+  Background-color:#4CAF50;
+}   
+input.labelauty:checked:not([disabled]) + label:hover{
+  Background-color:#1B5E20;
+} 
+input.labelauty + label {
+  background-color: #ccc;
+  color: #fff;
+  font-weight: bold;
+}  
+input.labelauty:not(:checked):not([disabled]) + label:hover {
+  Background-color:#A5D6A7;
+    color: #fff;
+} 
+ul.cmb2-radio-list.cmb2-list label:nth-child(3) {
+  display: none;
+}     
+.cmb2-upload-button.button.cmb2-upload-list {
+  background-color: #424242;
+  border-radius: 5px;
+  color: #fff;
+}     
+.cmb2-upload-button.button.cmb2-upload-list:hover {
+  background-color: #212121;
+
+}
+.ui-slider-range.ui-widget-header.ui-corner-all.ui-slider-range-min {
+  background: #c44d10 none repeat scroll 0 0;
+}
+.cmb2-id-falto-img-number .ui-slider-range.ui-widget-header.ui-corner-all.ui-slider-range-min {
+  background: #0073AA none repeat scroll 0 0;
+}
+.cmb2-id-falto-img-medium .ui-slider-range.ui-widget-header.ui-corner-all.ui-slider-range-min {
+  background: #37474F none repeat scroll 0 0;
+}
+.cmb2-id-falto-img-tab .ui-slider-range.ui-widget-header.ui-corner-all.ui-slider-range-min {
+  background: #0D47A1 none repeat scroll 0 0;
+}
+.cmb2-id-falto-imgScroll .ui-slider-range.ui-widget-header.ui-corner-all.ui-slider-range-min {
+  background: #1B5E20 none repeat scroll 0 0;
+}
+.cmb2-id-Scrollspeed .ui-slider-range.ui-widget-header.ui-corner-all.ui-slider-range-min {
+  background: #827717 none repeat scroll 0 0;
+}
+.cmb2-id-falto-centerPadding .ui-slider-range.ui-widget-header.ui-corner-all.ui-slider-range-min {
+  background: #3E2723 none repeat scroll 0 0;
+}
+#cmb2-metabox-_carousel_metabox .own-slider-field-value-display {
+  color: #4e342e;
+
+}
+#cmb2-metabox-_carousel_metabox .own-slider-field-value-text {
+  color: #b71c1c;
+  font-weight: 700;
+}
+ul.cmb2-list li label span i {
+  color: #000;
+  font-size: 16px;
+  font-weight: bold;
+}
+.select2-selection__clear{
+display:none;
+}
+.cmb-type-checkbox div.cmb-td {
+  background: #333 none repeat scroll 0 0;
+  border-radius: 50px;
+  float: left !important;
+  height: 40px;
+  margin: -4px -7px;
+  position: relative;
+  width: 120px !important;
+}
+.cmb-type-checkbox div.cmb-td:before {
+	content: 'On';
+	position: absolute;
+	top: 12px;
+	left: 13px;
+	height: 2px;
+	color: #26ca28;
+	font-size: 16px;
+}
+.cmb-type-checkbox div.cmb-td:after {
+	content: 'Off';
+	position: absolute;
+	top: 12px;
+	left: 84px;
+	height: 2px;
+	color: #ff0000;
+	font-size: 16px;
+}
+.cmb-type-checkbox div.cmb-td label {
+	display: block;
+	width: 52px;
+	height: 22px;
+	border-radius: 50px;
+
+	transition: all .5s ease;
+	cursor: pointer;
+	position: absolute;
+	top: 9px;
+	z-index: 1;
+	left: 12px;
+	background: #ddd;
+}
+
+/**
+ * Create the checkbox event for the label
+ */
+.cmb-type-checkbox div.cmb-td input[type=checkbox]:checked + label {
+	left: 60px;
+	background: #26ca28;
+}
+/*.cmb-type-checkbox div.cmb-td input[type=checkbox]{
+ opacity:0
+}*/
